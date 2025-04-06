@@ -1,3 +1,5 @@
+![Welcome](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=28&fontAlign=center)
+
  - 👋 Hi, I’m @coding-enthusiast003
 
 - 🎯 I'm passionate about **Web Development** and love creating things for the web  
