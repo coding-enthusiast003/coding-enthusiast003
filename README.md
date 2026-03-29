@@ -4,7 +4,7 @@
 
 - 🎯 Passionate about Web Development with a growing focus on Backend Development
 
-- 🐍 Learning Python & 🟢 Node.js for building APIs and database-driven apps
+- 🐍 Learning Python  for building APIs and database-driven apps
 
 - 💻 Comfortable with HTML, CSS, and JavaScript on the frontend
 
